@@ -26,7 +26,7 @@ Member of the Interactive Technologies Research Group (SITI) — 2025–Present.
 - **Java** → Currently learning  
 - **Game Dev** → Building projects with Godot  
 - **OS** → Windows 11 & Debian (Trixie)
-
+- **English level** → B2
 ---
 
 ## Mindset
