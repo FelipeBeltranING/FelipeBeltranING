@@ -12,7 +12,8 @@ Systems Engineering Student • Backend & Game Dev
 I’m a Systems Engineering student who enjoys coding and exploring new technologies.  
 I like building logical solutions, leading projects, and enjoying the process of turning ideas into real systems.
 
-🏆 Winner — First Place, 1° Game Jam Unillanos 2025  
+🏆 **Winner** — <a href="https://felipebeltran.itch.io/la-redencion-del-llanero" target="_blank">First Place, 1° Game Jam Unillanos 2025</a>
+
 Member of the Interactive Technologies Research Group (SITI) — 2025–Present. 
 
 ---
@@ -23,10 +24,16 @@ Member of the Interactive Technologies Research Group (SITI) — 2025–Present.
 - **Databases** → Oracle SQL, PL/SQL, PostgreSQL  
 - **Integration** → Connecting databases using Go & C++  
 - **Go** → Backend logic & practice projects  
-- **Java** → Currently learning  
 - **Game Dev** → Building projects with Godot  
 - **OS** → Windows 11 & Debian (Trixie)
 - **English level** → B2
+---
+
+## Current Focus
+- **Java** → Learning at University
+- **PGA (Projective Geometric Algebra)** → Exploring for advanced math & graphics
+- **Web Deployment & Docker** → Containerizing a large-scale web app (JS/NPM) featuring custom Shaders
+- **Visual Arts** → Learning 3D modeling (Blender) and Pixel Art to create characters and assets for indie game development
 ---
 
 ## Mindset
