@@ -45,7 +45,7 @@ Universidad de los Llanos × Ecopetrol
 ### Databases
 
 <p>
-  <img src="https://img.shields.io/badge/Oracle-D32F2F?style=flat-square">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=datadog&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-1976D2?style=flat-square&logo=postgresql&logoColor=white">
 </p>
 
