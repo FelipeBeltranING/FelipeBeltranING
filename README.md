@@ -13,9 +13,12 @@ I enjoy designing logical solutions, building software from scratch, and explori
   <img src="supermariostar.gif" width="500">
 </p>
 
-🏆 **Winner** — <a href="https://felipebeltran.itch.io/la-redencion-del-llanero" target="_blank">First Place, 1° Game Jam Unillanos 2025</a>
+🏆 **Winner** —  First Place <a href="https://felipebeltran.itch.io/la-redencion-del-llanero" target="_blank">1° Game Jam Unillanos 2025</a> & <a href="https://felipebeltran.itch.io/million-hole" target="_blank"> 2° Game Jam Unillanos 2026</a>
+
 
 Member of the Interactive Technologies Research Group (SITI) — 2025–Present.
+<br>
+Member of the Cybersecurity & Ethical Hacking (CYSETH) — 2026–Present.
 
 Diploma in Energy Transition:
 "Energía que transforma hacia la SosTECnibilidad"
