@@ -13,7 +13,7 @@ I enjoy designing logical solutions, building software from scratch, and explori
   <img src="supermariostar.gif" width="500">
 </p>
 
-🏆 **Winner** —  First Place <a href="https://felipebeltran.itch.io/la-redencion-del-llanero" target="_blank">1° Game Jam Unillanos 2025</a> & <a href="https://felipebeltran.itch.io/million-hole" target="_blank"> 2° Game Jam Unillanos 2026</a>
+🏆 **Winner** —  First Place <a href="https://felipebeltran.itch.io/la-redencion-del-llanero" target="_blank">1° Game Jam Unillanos 2025</a> & <a href="https://felipebeltraning.github.io/million-hole/" target="_blank"> 2° Game Jam Unillanos 2026</a>
 
 
 Member of the Interactive Technologies Research Group (SITI) — 2025–Present.
