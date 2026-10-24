@@ -7,7 +7,7 @@
 
 I'm a Systems Engineering student with a strong interest in backend development, video game development, and IoT.
 
-I enjoy designing logical solutions, building software from scratch, and exploring technologies that connect hardware and software. I'm always looking for opportunities to learn through projects, competitions, and research.
+I enjoy designing logical solutions, building software from scratch, and exploring interactive technologies that connect hardware and software. I'm always looking for opportunities to learn through projects, competitions, and research.
 
 <p align="center">
   <img src="supermariostar.gif" width="500">
@@ -80,9 +80,8 @@ Universidad de los Llanos × Ecopetrol
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%" />
 
 ### Current Focus
-
+* **Scientific Computing & Simulation** → Exploring interactive simulations of physical phenomena, artificial life, and complex systems, with an interest in developing research-driven projects.
 * **Cloud Computing** → Learning cloud infrastructure, deployment, distributed systems, and scalable applications.
-* **Cybersecurity** → Exploring secure software development, networking, system security, and cybersecurity fundamentals.
 * **IoT & Edge Computing** → Deepening my knowledge of embedded systems, IoT architectures, and edge computing.
 * **Competitive Programming** → Improving problem-solving skills through algorithmic challenges and RPC competitions.
 * **Game Development** → Continuing to build games and explore different aspects of game development.
